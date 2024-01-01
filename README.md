@@ -1,2 +1,1 @@
-# Aprendizado-Git-Hub
-Teste final do git hub treinamento
+Informação do Master 6 README

@@ -1,14 +1,1 @@
-~~ Configurando GIT ~~
-
-    Abra o terminal e digite os seguintes comandos:
-
-    git config --global user.name "seu nome"  = vai vincular o seu nome em todos os arquivos manuseados no git.
-    git config -- global user.email "seu email" = vai vincular o seu email em todos os projetos manuseados no git.
-    git config --list = vai listar as configuraçoes ja padronizadas no git.
-    git config = vai te mostrar as opções a serem configuradas e seus comandos.
-
-    Criar novo repositório: 
-    1 - abra o terminal
-    2 - crie uma nova pasta com o nome que desejar (mkdir)
-    3 - digite o comando git init (irá iniciar o controle das suas versões)
-    4- digite cd.git para enxergar os arquivos na pasta, pois eles ficam ocultos.
+Informação do Master 3

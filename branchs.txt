@@ -1,4 +1,1 @@
- ~~ Branchs ~~
-
-    Utilizada para separação do projeto em sessões, onde pode ser desenvolvido por exemplo uma parte de um site por um programador
-    e outra por um segundo programador. no final, elas serem unificadas.
+Informação do Master 1

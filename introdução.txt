@@ -1,8 +1,1 @@
-O que é o Git?
-
-Serve como um armazenador de versões de projetos. a Cada save, ele armazena o arquivo anterior e gera uma versão nova com as alterações
-solicitadas. assim, você consegue ter acesso a qualquer momento em que houve alteração no projeto.
-
-O que é GitHub?
-Funciona como um armazenador e disponibilizador de projetos. assim, dando acesso publico ou privado aos meus códigos postados.
-ainda serve como um "instagram" onde postamos os projetos concluidos.
+Informação do Master 4
