@@ -1,0 +1,12 @@
+  ~~ Download de Projetos GitHub ~~ 
+
+    Os projetos opencode, ficam disponiveis para o download e manuseio. para tal, siga o seguinte caminho:
+
+    Entre no Site do GitHub
+    Vá no Projeto desejado
+    Localize o campo "Code" em verde
+    Localize o Link HTTPS e copie-o
+    Abra o terminal windows
+    digite "git clone HTTPS copiado" e aguarde (nesta parte, temos mais 2 opções):
+    [você também pode baixar direto pelo arquivo zip, ou pelo SSH que é a forma mais segura]
+    Com isso, será feito o donwload do arquivo do projeto.
